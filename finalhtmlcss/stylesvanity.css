@@ -1,0 +1,281 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    color: inherit;
+    text-decoration: none; 
+}
+.vanity{
+    display: flex;
+    flex-direction: column;
+}
+.title1{
+    text-align: center;
+}
+.logo{
+    max-width: 300px;
+    height: auto;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.container1{
+    display:flex;
+    flex-direction: column;
+    margin: 10px;
+    width:50%;
+}
+.title-kard{
+    display: flex;
+    justify-content: center;
+}
+.kardashians{
+    max-width: 100%;
+    max-height: 100%;
+}
+.text-kard{
+    text-align: center;
+    font-style: italic;
+}
+.title-barbie{
+    display: flex;
+    justify-content: center;
+}
+.barbie{
+    max-width: 100%;
+    max-height: 100%;
+}
+.text-barbie{
+    text-align: center;
+    font-style: italic;
+}
+.container2{
+    margin: 10px;
+    width: 50%;
+}
+.title-best{
+    display: flex;
+    justify-content: center;
+}
+.zendaya{
+    max-width: 100%;
+    max-height: 100%;
+}
+.text-best{
+    text-align: center;
+    font-style: italic;
+}
+.keepingup{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+.title2{
+    text-align: center;
+}
+.article1{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+    text-align: center;
+}
+.kim{
+    display: flex;
+    flex-direction: column;
+    margin: 5px; 
+}
+.kim-pics{
+    display: flex;
+    flex-direction: row; 
+}
+.im-kim1{
+    width:300px;
+    margin: 20px;
+}
+.im-kim2{
+    width:300px;
+    margin: 20px;
+}
+.im-kim3{
+    width:300px;
+    margin: 20px;
+}
+.text-kim{
+    text-align: center;
+    font-style: italic;
+}
+.kylie{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+}
+.kylie-pics{
+    display: flex;
+    flex-direction: row; 
+}
+.im-kylie1{
+    width:335px;
+    margin: 20px;
+}
+.im-kylie2{
+    width:300px;
+    margin: 20px;
+}
+.im-kylie3{
+    width:300px;
+    margin: 20px;
+}
+.text-kylie{
+    text-align: center;
+    font-style: italic;
+}
+.kendall{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+}
+.kendall-pics{
+    display: flex;
+    flex-direction: row; 
+}
+.im-ken1{
+    width:300px;
+    margin: 20px;
+}
+.im-ken2{
+    width:300px;
+    margin: 20px;
+}
+.im-ken3{
+    width:325px;
+    margin: 20px;
+}
+.text-kendall{
+    text-align: center;
+    font-style: italic;
+}
+.big{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+.title3{
+    text-align: center;
+}
+.best{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+    text-align: center;
+}
+.best-pics{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.img-daddario{
+    width:300px;
+    margin: 20px;
+}
+.img-downey{
+    width:300px;
+    margin: 20px;
+}
+.text-best{
+    text-align: center;
+    font-style: italic;
+}
+.worst{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+    text-align: center;
+}
+.worst-pics{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.img-riseborough{
+    width:300px;
+    margin: 20px;
+}
+.img-rock{
+    width:300px;
+    margin: 20px;
+}
+.text-worst{
+    text-align: center;
+    font-style: italic;
+}
+.whole{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+.title4{
+    text-align: center;
+}
+.article2{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+    text-align: center;
+}
+.section1{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+    text-align: center;
+}
+.hibarbie{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.margot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.img-barb1{
+    width:300px;
+    margin: 20px;
+}
+.img-barb2{
+    width:300px;
+    margin: 20px;
+}
+.img-america{
+    width:628px;
+    margin: 20px;
+}
+.text-hibarbie{
+    text-align: center;
+    font-style: italic;
+}
+.section2{
+    display: flex;
+    flex-direction: column; 
+    margin: 5px;
+    text-align: center;
+}
+.ryan{
+    display: flex;
+    justify-content: center;
+}
+.text-ken{
+    text-align: center;
+    font-style: italic;
+}
+.goback{
+    display: flex;
+    justify-content: center;
+}
+.back-button{
+    background-color: black;
+    color: white;
+    padding:10px;
+}
